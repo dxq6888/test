@@ -1,0 +1,15 @@
+.message_left{
+    position: relative;
+    float: left;
+    width:200px;
+    height:1200px;
+    background-color: #F8F8F8;
+    margin-left:8px;
+}
+.mes_4{
+    overflow: hidden;
+    padding-bottom:10px;
+}
+.message_left{
+    border:1px solid #ECECEC;
+}
