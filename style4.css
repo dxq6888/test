@@ -1,0 +1,10 @@
+.name{
+    float: left;
+    margin-top:14px;
+    margin-left:10px;
+}
+.name h2{
+    font-size: 16px;
+    color: #E02020;
+    margin-bottom: 6px;
+}
