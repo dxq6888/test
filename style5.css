@@ -1,0 +1,14 @@
+.pink{
+
+    color: #000;
+    background-color: #FFECF2;
+    border-top:1px solid #ECECEC;
+    border-bottom:1px solid #ECECEC;
+}
+.icon_33{
+    position: absolute;
+    display: inline-block;
+    width: 48px;
+    height: 53px;
+    z-index: 1;
+}
