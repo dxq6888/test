@@ -1,0 +1,10 @@
+.message_left ul li{
+    width: 140px;
+    height:42px;
+    line-height: 42px;
+    font-size: 16px;
+    padding-left:60px;
+}
+.message_left ul li a{
+    color: #787878;
+}
