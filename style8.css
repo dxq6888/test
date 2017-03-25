@@ -1,0 +1,10 @@
+.safe{
+    top: 424px;
+    left: -8px;
+    background: url("../img/icon_1.png") no-repeat -113px 0;
+}
+.white{
+    background-color: #fff;
+    border-right:1px solid transparent;
+    border-top:1px solid #ECECEC ;
+}
