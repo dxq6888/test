@@ -1,0 +1,10 @@
+.white_1{
+    background-color: #fff;
+    border-right:1px solid transparent;
+    border-bottom:1px solid #ECECEC ;
+}
+.message_right{
+    width:980px;
+    float: left;
+    margin-left:10px;
+}
