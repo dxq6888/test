@@ -1,0 +1,10 @@
+.means{
+    top: 83px;
+    left: -8px;
+    background: url("../img/icon_1.png") no-repeat;
+}
+.deal{
+    top: 253px;
+    left: -8px;
+    background: url("../img/icon_1.png") no-repeat -55px 0;
+}
