@@ -1,0 +1,18 @@
+.ZhangHao_4{
+    color: #c91623;
+}
+.ZhangHaoZhongXin_1{
+    float: right;
+}
+.ZhangHaoZhongXin_12{
+    float: left;
+    color: #969696;
+    margin-top: 10px;
+    background: url(../img/ZhangHao_1.png) no-repeat 102px 10px;
+    font-size: 14px;
+    position: relative;
+    width: 140px;
+    text-align: center;
+    height: 30px;
+    border: 1px solid #f5f5f5;
+}
