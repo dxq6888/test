@@ -14,4 +14,12 @@ $(function(){
 	}); 
 });	
 
-   
+ </script>
+<html>
+<body>
+	<ul class="breadcrumb">
+		<li><a href="storeInfo!index">主页</a> <span class="divider">/</span></li>
+		<li>供货商销售提现 <span class="divider">/</span>
+		</li>
+		<li class="active">填写提现信息：</li>
+	</ul>
